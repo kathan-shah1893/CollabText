@@ -22,7 +22,7 @@ CollabText is a real-time collaborative text editor built using the MERN stack (
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/collabtext.git
+    git clone https://github.com/kathan-shah1893/collabtext.git
     cd collabtext
     ```
 
